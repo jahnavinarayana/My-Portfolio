@@ -57,10 +57,10 @@ const DATA = {
     { g: "Project Management", short: "Project Mgmt", i: ["Work Breakdown Structure", "Predictive planning", "Project kickoff"] }
   ],
   certs: [
-    { t: "Internship Completion: Python Programming", by: "InternPe", d: "Oct 2024", file: "assets/cert-python-internship" },
-    { t: "Internship Certificate: Cloud Computing", by: "Alpha Innovation", d: "Sep 2025", file: "assets/cert-cloud-internship" },
-    { t: "Project Management: Creating the WBS", by: "Coursera", d: "Jul 12, 2026", file: "assets/cert-wbs-coursera" },
-    { t: "PMI Kickoff Badge: Predictive", by: "Project Management Institute", d: "Digital badge", file: "assets/badge-pmi-kickoff" }
+    { t: "Internship Completion: Python Programming", by: "InternPe", d: "Oct 2024", file: "cert-python-internship" },
+    { t: "Internship Certificate: Cloud Computing", by: "Alpha Innovation", d: "Sep 2025", file: "cert-cloud-internship" },
+    { t: "Project Management: Creating the WBS", by: "Coursera", d: "Jul 12, 2026", file: "cert-wbs-coursera" },
+    { t: "PMI Kickoff Badge: Predictive", by: "Project Management Institute", d: "Digital badge", file: "badge-pmi-kickoff" }
   ]
 };
 
